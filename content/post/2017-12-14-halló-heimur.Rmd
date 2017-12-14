@@ -1,0 +1,10 @@
+---
+title: "Halló heimur"
+author: "Hlynur"
+date: '2017-12-14'
+slug: halló-heimur
+tags: []
+categories: R
+---
+
+Hér er þessi fína síða svona næstum því komin í gagnið.
