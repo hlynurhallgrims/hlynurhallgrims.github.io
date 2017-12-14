@@ -1,0 +1,25 @@
+baseurl         = "https://eueung.github.io/hugo-sp-minimal/"
+theme           = "hugo-sp-minimal"
+languageCode    = "en-us"
+title           = "SP-Minimal"
+disqusShortname = ""
+paginate        = 5
+ignoreFiles     = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+[params]
+  title       = "SP-Minimal"
+  subtitle    = "Another Minimalist Theme for Hugo"
+  copyright   = "Released under the MIT license."
+  authorImage = "logo.png"
+
+  #"single" or "multi"
+  renderType = "multi"
+  #"simple" or "original"
+  themeStyle = "simple"
+
+  googleAnalytics = ""
+
+  name = "EM"
+  description = "Here is a description of your site."
+  pageNotFoundTitle = "404 - Page not found"
+
